@@ -1,8 +1,4 @@
-/*
-Author - Rushith Karunaratne
-Student number - 964678
 
- */
 import javax.swing.*;
 import java.awt.*;
 
