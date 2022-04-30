@@ -5,7 +5,7 @@ Multi Threaded dictionary server using TCP sockets.
 
 In order to start the server
 
-      Java Server.Java port dictionaryFileName.csv
+      Java Server.Java port Dict.csv
 
 In order to start a client (can run multiple clients but just one server)
 
